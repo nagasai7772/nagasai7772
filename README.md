@@ -83,14 +83,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nagasai7772&theme=radical&no-frame=true&column=7" />
-</p>
-
----
-
 ### ✨ Bonus: Add a GIF (Optional)
 If you want to add a cool coding animation:
 
