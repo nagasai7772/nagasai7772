@@ -81,12 +81,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasai7772&layout=compact&theme=radical" />
 </p>
 
----
-
-### ✨ Bonus: Add a GIF (Optional)
-If you want to add a cool coding animation:
-
-```html
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
