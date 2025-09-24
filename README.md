@@ -40,6 +40,9 @@
   <a href="https://stackoverflow.com/users/27391525" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
+   <a href="mailto:nagasaipvn@gmail.com.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
