@@ -40,7 +40,7 @@ I follow modern development practices such as component-based architecture, REST
 
 ---
 
-## Core Expertise (SEO Keywords)
+## Core Expertise 
 
 - Full-Stack Web Development  
 - Frontend Architecture (React, Next.js)  
