@@ -1,75 +1,82 @@
-<h1 align="center">👋 Hi, I'm Nagasai</h1>
+<h1 align="center">Nagasai</h1>
 
 <p align="center">
-  <b>Full Stack Developer · React · Next.js · Node.js · PostgreSQL</b>
+  Full Stack Developer · React · Next.js · Node.js · PostgreSQL
 </p>
 
 <p align="center">
-  I build scalable, performant, and maintainable web applications using modern technologies.
+  Building scalable, responsive, and production-ready web applications
 </p>
 
+<hr/>
+
+## Profile
+
+I am a Full Stack Developer currently working at AskMentor, focused on building clean, maintainable, and high-performance web applications.  
+My work spans frontend architecture, backend API development, and database design using modern technologies.
+
+I enjoy solving real-world problems through code and continuously improving my engineering skills.
+
 ---
 
-## 👨‍💻 Professional Summary
-
-Full Stack Developer with hands-on experience in building production-ready web applications using **React, Next.js, Node.js, and relational databases**.  
-Strong focus on **clean architecture, performance optimization, and real-world problem solving**.
-
-Currently working as a **Full Stack Developer at AskMentor**, contributing to feature development, API design, and frontend architecture.
-
----
-
-## 🧠 Core Skills
+## Skills & Technologies
 
 ### Frontend
-- React.js (Hooks, Context API)
-- Next.js (App Router, API Routes)
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS, Bootstrap
-- Responsive & Cross-Browser Design
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 
 ### Backend
-- Node.js
-- Express.js
-- RESTful API Design
-- Authentication & Authorization
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 
 ### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
-### Tools & Practices
-- Git & GitHub
-- Component-Based Architecture
-- State Management (Redux Toolkit – learning)
-- Performance Optimization
-- Debugging & Testing
-- Agile Development
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
 
-## 🚀 Projects
+## Experience
+
+**Full Stack Developer — AskMentor**
+
+- Developing full stack features using React, Next.js, and Node.js
+- Designing REST APIs and integrating databases
+- Working on performance optimization and scalable architecture
+- Collaborating with cross-functional teams
+
+---
+
+## Projects
 
 **DocMeet**  
-Healthcare appointment booking and consultation platform.
+Healthcare appointment booking and consultation system.
 
 **PrimeNest**  
-Real estate collaboration platform with user management features.
+Real estate platform with user collaboration and management features.
 
 **MyStartup News**  
-News publishing CMS built using **Next.js + PostgreSQL**.
+News publishing CMS built using Next.js and PostgreSQL.
 
 **Omsheel Group Website**  
-Business profile website built with React and Bootstrap.
+Business profile website built using React and Bootstrap.
 
 **VYBBII**  
-Live Project → https://nagasai7772.github.io/Project-Vybbi-/index5.html
+Live Demo: https://nagasai7772.github.io/Project-Vybbi-/index5.html
 
 ---
 
-## 📈 What I’m Currently Working On
+## Learning & Focus
 
 - Advanced React patterns
 - Redux Toolkit
@@ -78,15 +85,7 @@ Live Project → https://nagasai7772.github.io/Project-Vybbi-/index5.html
 
 ---
 
-## 🤝 Open To
-
-- Full Stack / Frontend roles
-- Open-source collaboration
-- Real-world product-based projects
-
----
-
-## 🌐 Connect With Me
+## Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/naga-sai-692a75274" target="_blank">
@@ -102,7 +101,7 @@ Live Project → https://nagasai7772.github.io/Project-Vybbi-/index5.html
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nagasai7772&show_icons=true&theme=dark&hide_border=true" />
@@ -114,10 +113,4 @@ Live Project → https://nagasai7772.github.io/Project-Vybbi-/index5.html
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasai7772&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>“Code is not just written — it is engineered.”</i>
 </p>
