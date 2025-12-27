@@ -126,3 +126,22 @@ Static web application built during the learning phase to strengthen frontend fu
 ## Professional Outlook
 
 Driven by curiosity and continuous learning, I enjoy designing clean systems, solving complex problems, and improving application reliability. I am open to professional collaboration and opportunities where I can contribute, learn, and grow as a software engineer.
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagasai7772&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nagasai7772&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasai7772&layout=compact&theme=dark" />
+</p>
+
+
+
+
