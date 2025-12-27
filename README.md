@@ -128,7 +128,24 @@ Static web application built during the learning phase to strengthen frontend fu
 Driven by curiosity and continuous learning, I enjoy designing clean systems, solving complex problems, and improving application reliability. I am open to professional collaboration and opportunities where I can contribute, learn, and grow as a software engineer.
 
 ---
+## Connect
 
+<p align="left">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=flat" />
+  </a>
+  <a href="https://linkedin.com/in/naga-sai-692a75274" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+  </a>
+  <a href="mailto:nagasaipvn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/27391525" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?logo=stackoverflow&logoColor=white&style=flat" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nagasai7772&show_icons=true&theme=dark" />
