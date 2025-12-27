@@ -94,6 +94,17 @@ I follow modern development practices such as component-based architecture, REST
 
 ---
 
+## Professional Skills
+
+- Problem-solving and analytical thinking  
+- Debugging and root-cause analysis  
+- Clear technical communication  
+- Collaboration in cross-functional teams  
+- Time management and task prioritization  
+- Adaptability and continuous learning  
+
+---
+
 ## Learning & Practice Projects
 
 ### DocMeet – Healthcare Appointment System
